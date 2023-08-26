@@ -20,12 +20,12 @@
 .i-name > :nth-child(1) {
   color: var(--black);
   font-weight: bold;
-  font-size: 3rem;
+  font-size: 2rem;
 }
 .i-name > :nth-child(2) {
   color: var(--orange);
   font-weight: bold;
-  font-size: 3rem;
+  font-size: 2rem;
 }
 .i-name > :nth-child(3) {
   font-weight: 100;
