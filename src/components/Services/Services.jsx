@@ -24,16 +24,16 @@ const Services = () => {
       {/* left side */}
       <div className="awesome">
         {/* dark mode */}
-        <span style={{ color: darkMode ? "white" : "" }}>My Awesome</span>
+        <span style={{ color: darkMode ? "white" : "" }}>Our Awesome</span>
         <span>services</span>
         <spane>
           Lorem ispum is simpley dummy text of printing of printing Lorem
           <br />
           ispum is simpley dummy text of printing
         </spane>
-        <a href={Resume} download>
+{/*         <a href={Resume} download>
           <button className="button s-button">Download CV</button>
-        </a>
+        </a> */}
         <div className="blur s-blur1" style={{ background: "#ABF1FF94" }}></div>
       </div>
       {/* right */}
