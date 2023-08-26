@@ -28,7 +28,7 @@ const Intro = () => {
         <div className="i-name">
           {/* yahan change hy darkmode ka */}
           <span style={{ color: darkMode ? "white" : "" }}>GLOBAL IT SOLUTIONS</span>
-          <span>YOU VISUALIZE, WE REALIZE</span>
+          <span>You Visualize, We Realize</span>
           <span>
             A company offering you the best IT services, in the field of software development and many more
           </span>
