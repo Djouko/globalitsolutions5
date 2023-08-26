@@ -27,11 +27,10 @@ const Intro = () => {
       <div className="i-left">
         <div className="i-name">
           {/* yahan change hy darkmode ka */}
-          <span style={{ color: darkMode ? "white" : "" }}>Hy! I Am</span>
-          <span>Andrew Thomas</span>
+          <span style={{ color: darkMode ? "white" : "" }}>GLOBAL IT SOLUTIONS</span>
+          <span>YOU VISUALIZE, WE REALIZE</span>
           <span>
-            Frontend Developer with high level of experience in web designing
-            and development, producting the Quality work
+            A company offering you the best IT services, in the field of software development and many more
           </span>
         </div>
         <Link to="contact" smooth={true} spy={true}>
